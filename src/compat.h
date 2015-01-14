@@ -51,7 +51,7 @@ typedef int socklen_t;
 #ifndef WIN32
 // PRIO_MAX is not defined on Solaris
 #ifndef PRIO_MAX
-#define PRIO_MAX 20
+#define PRIO_MAX 19
 #endif
 #endif
 
